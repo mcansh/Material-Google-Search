@@ -1,13 +1,13 @@
 {
   "content_scripts": [ {
     "js": [ "cookie.js" ],
-    "matches": [ "http://*.youtube.com/*", "https://*.youtube.com/*" ],
+    "matches": [ "http://*.google.com/*", "https://*.google.com/*" ],
     "run_at": "document_start"}
   ],
-  "permissions": [ "cookies", "*://*.youtube.com/*" ],
+  "permissions": [ "cookies", "*://*.google.com/*" ],
   "manifest_version": 2,
-  "name": "Material YouTube",
-  "description": "Edits the cookie for YouTube so that you get the experimental material design overhaul.",
-  "version": "1.1",
+  "name": "Material Google Search",
+  "description": "Edits the cookie for Google.com so that you get the experimental material design overhaul.",
+  "version": "1.0",
   "icons": { "200": "icon.png"}
 }
