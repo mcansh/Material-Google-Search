@@ -3,7 +3,7 @@
 ### Installation
 1. download extension
 2. install extension
-3. go to google.com
+3. go to www.google.com
 4. refresh
 5. possibly refresh again
 6. profit?!
