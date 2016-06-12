@@ -10,7 +10,7 @@
 
 
 ### having an issue?
-1. check inspector > storage > cookies > www.youtube.com
+1. check inspector > storage > cookies > www.google.com
 2. look for name: NID value: 79=plY6dGU7COfmytDXjaCCtf3Ilnc_6r_Dp6gOnV9poI-zKGcu9X6gxlkA1Qsk83oElEy0lQTEJ0Cz_pO75_O-4iD4910wdwx_GKS0NbmPkv-MXnOABcLNtghfMDuXo9PH
 3. don't see it? refresh.
 4. still dont see it? fuck.
