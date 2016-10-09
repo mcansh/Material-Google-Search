@@ -1,7 +1,7 @@
 {
   "content_scripts": [ {
     "js": [ "cookie.js" ],
-    "matches": [ "http://*.google.com/*", "https://*.google.com/*" ],
+    "matches": [ "*://*.google.com/*" ],
     "run_at": "document_start"}
   ],
   "permissions": [ "cookies", "*://*.google.com/*" ],
